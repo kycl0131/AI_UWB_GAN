@@ -1,4 +1,4 @@
-## 📄 SMOTE-Diffusion: Data Augmentation for Imbalanced Datasets
+## SMOTE-Diffusion
 
 
 <img src="main.png" width="700">
