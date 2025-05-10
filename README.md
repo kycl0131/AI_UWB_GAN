@@ -1,6 +1,6 @@
 ## 📄 SMOTE-Diffusion: Data Augmentation for Imbalanced Datasets
 
-![description](images/main.png)
+![description](main.png)
 
 ### Reference Paper
 - **SMOTE-Diffusion: An Over-Sampling Method Using Diffusion Models for Imbalanced Data**  
@@ -26,13 +26,6 @@
 - Generates data-driven synthetic samples via deep learning.
 
 ### Dependencies
-```bash
-python >=3.8
-torch >=1.12
-scikit-learn >=1.0
-numpy
-
-
 
 
 python train.py --epochs 100
