@@ -1,11 +1,10 @@
 ## 📄 SMOTE-Diffusion: Data Augmentation for Imbalanced Datasets
 
-![description](images/filename.png)
+![description](images/main.png)
 
-Reference Paper
-SMOTE-Diffusion: An Over-Sampling Method Using Diffusion Models for Imbalanced Data
-https://doi.org/10.48550/arXiv.2401.12345
-
+### Reference Paper
+- **SMOTE-Diffusion: An Over-Sampling Method Using Diffusion Models for Imbalanced Data**  
+  [https://doi.org/10.1109/JSEN.2025.3544753](https://doi.org/10.1109/JSEN.2025.3544753)
 
 
 
